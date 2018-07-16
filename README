@@ -1,1 +1,32 @@
-This is a collection of the assignments..
+This is a collection of the assignments of the Stanford University course on Convolutional Neural Networks for Visual Recognition(CS231n).
+
+ASSIGNMENT-1 
+
+understand the basic Image Classification pipeline and the data-driven approach (train/predict stages)
+
+understand the train/val/test splits and the use of validation data for HYPERPARAMETER tuning.
+
+implement and apply a k-nearest neighbor (knn) classifier,a Multiclass 
+Support Vector Machine (SVM) classifier,a Softmax classifier,a Two layer neural network classifier
+
+understand the differences and tradeoffs between these classifiers
+
+get a basic understanding of performance improvements from using higher-level representations than raw pixels (e.g. color histograms, Histogram of Gradient (HOG) features).
+
+
+ASSIGNMENT-2
+
+understand Neural Networks and how they are arranged in layered architectures
+
+understand and be able to implement (vectorized) backpropagation
+
+implement various update rules used to optimize Neural Networks
+
+implement Batch Normalization and Layer Normalization for training deep networks
+
+implement Dropout to regularize networks
+
+understand the architecture of Convolutional Neural Networks and get practice with training these models on data
+
+gain experience with a major deep learning framework, such as TensorFlow or PyTorch.
+
